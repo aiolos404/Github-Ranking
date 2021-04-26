@@ -1,7 +1,7 @@
-[Github Ranking](./README.md)
+[Solidity-Projects-Ranking](./README.md)
 ==========
 
-**A list of the most github stars and forks repositories.**
+**A list of the most github stars and forks repositories for Solidity.**
 
 *Last Automatic Update Time: 2021-04-26T01:33:09Z*
 
